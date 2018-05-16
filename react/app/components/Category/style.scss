@@ -1,0 +1,131 @@
+.carousel-item {
+    ul {
+            width: 100%;
+            height: auto;
+            padding-top:10px;
+  
+        li {
+            display: block;
+            list-style: none;
+            width: 20%;
+            background-repeat: no-repeat;
+            background-size: 50px auto;
+            background-position: top center;
+            text-align: center;
+            padding-top: 50px;
+            color: #666;
+            font-size: 14px;
+            padding-bottom:10px;
+		}
+		li.jingdian{
+			background-image:url('./images/apply-01.jpg');
+		}
+		li.ktv{
+			background-image:url('./images/apply-03.jpg');
+		}
+		li.gouwu{
+			background-image:url('./images/apply-04.jpg');
+		}
+		li.shenghuofuwu{
+			background-image:url('./images/apply-05.jpg');
+		}
+		li.jianshenyundong{
+			background-image:url('./images/apply-06.jpg');
+		}
+		li.meifa{
+			background-image:url('./images/apply-07.jpg');
+		}
+		li.qinzi{
+			background-image:url('./images/card-01.jpg');
+		}
+		li.xiaochikuaican{
+			background-image:url('./images/card-02.jpg');
+		}
+		li.zizhucan{
+			background-image:url('./images/card-03.jpg');
+		}	
+		li.jiuba{
+			background-image:url('./images/card-04.jpg');
+		}
+		li.meishi{
+			background-image:url('./images/card-05.png');
+		}
+		li.dianying{
+			background-image:url('./images/card-06.jpg');
+		}
+		li.jiudian{
+			background-image:url('./images/classify-01.jpg');
+		}
+		li.xiuxianyule{
+			background-image:url('./images/classify-02.jpg');
+		}
+		li.waimai{
+			background-image:url('./images/classify-03.jpg');
+		}
+		li.huoguo{
+			background-image:url('./images/classify-04.jpg');
+		}
+		li.liren{
+			background-image:url('./images/classify-05.jpg');
+		}
+		li.dujiachuxing{
+			background-image:url('./images/classify-06.jpg');
+		}
+		li.zuliaoanmo{
+			background-image:url('./images/classify-07.jpg');
+		}
+		li.zhoubianyou{
+			background-image:url('./images/classify-08.png');
+		}
+		li.ribencai{
+			background-image:url('./images/classify-09.png');
+		}
+		li.SPA{
+			background-image:url('./images/classify-10.jpg');
+		}
+		li.jiehun{
+			background-image:url('./images/classify-11.png');
+		}
+		li.xuexipeixun{
+			background-image:url('./images/classify-12.png');
+		}
+		li.xican{
+			background-image:url('./images/classify-13.jpg');
+		}
+		li.huochejipiao{
+			background-image:url('./images/classify-14.jpg');
+		}
+		li.shaokao{
+			background-image:url('./images/classify-15.jpg');
+		}
+		li.ribencai{
+			background-image:url('./images/classify-16.jpg');
+		}
+		li.jiazhuang{
+			background-image:url('./images/classify-17.jpg');
+		}
+		li.chongwu{
+			background-image:url('./images/classify-18.png');
+		}
+		li.quanbufenlei{
+			background-image:url('./images/classify-19.jpg');
+		}	
+	}
+}
+.home-category-index{
+	width:45px;
+	margin:0px auto 0;
+
+	span{
+		display:block;
+		width:10px;
+		height:10px;
+		border:1px solid red;
+		border-radius:50%;
+		margin-left:5px;
+		background:#ccc;
+	}
+	span.selected{
+		background-color:red !important;
+	}
+}
